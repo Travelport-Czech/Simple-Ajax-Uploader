@@ -1,0 +1,10 @@
+{
+  "name": "lpology/simple-ajax-uploader",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "classmap": [
+      "extras/Uploader.php"
+      ]
+  }
+}
